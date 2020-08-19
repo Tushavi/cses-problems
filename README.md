@@ -1,1 +1,1 @@
-[[My try to CSES problem set]]
+# My try to CSES problem set
